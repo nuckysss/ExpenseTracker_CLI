@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "date": "2025-09-15T14:17:00.242799",
+        "description": "Timberland",
+        "amount": "500"
+    },
+    {
+        "id": 3,
+        "date": "2025-09-15T14:19:05.915646",
+        "description": "iPhone",
+        "amount": "7000"
+    },
+    {
+        "id": 4,
+        "date": "2025-09-15T14:19:16.522843",
+        "description": "PS5",
+        "amount": "3000"
+    },
+    {
+        "id": 5,
+        "date": "2025-09-15T14:19:27.193295",
+        "description": "RollsRoyce",
+        "amount": "56000000"
+    },
+    {
+        "id": 6,
+        "date": "2025-09-15T14:19:37.176812",
+        "description": "Jeans",
+        "amount": "80"
+    },
+    {
+        "id": 7,
+        "date": "2025-09-15T14:21:22.117642",
+        "description": "Condoms",
+        "amount": "20"
+    },
+    {
+        "id": 8,
+        "date": "2025-09-15T14:29:30.024338",
+        "description": "Suit",
+        "amount": "700"
+    }
+]
